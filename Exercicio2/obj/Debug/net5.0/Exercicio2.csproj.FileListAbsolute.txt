@@ -1,0 +1,5 @@
+C:\Users\thais\Documents\Exercicio2\obj\Debug\net5.0\Exercicio2.csproj.AssemblyReference.cache
+C:\Users\thais\Documents\Exercicio2\obj\Debug\net5.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais\Documents\Exercicio2\obj\Debug\net5.0\Exercicio2.AssemblyInfoInputs.cache
+C:\Users\thais\Documents\Exercicio2\obj\Debug\net5.0\Exercicio2.AssemblyInfo.cs
+C:\Users\thais\Documents\Exercicio2\obj\Debug\net5.0\Exercicio2.csproj.CoreCompileInputs.cache
